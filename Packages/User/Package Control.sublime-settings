@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"channels":
+	[
+		"https://github.com/JavenZ/channel_v3/raw/master/channel_v3.json"
+	],
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Compare Side-By-Side",
+		"GitGutter",
+		"JSX",
+		"MarkdownPreview",
+		"Package Control",
+		"Pretty JSON",
+		"SqlBeautifier",
+		"SublimeServer",
+		"Table Editor",
+		"WordCount"
+	]
+}
