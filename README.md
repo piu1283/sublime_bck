@@ -2,7 +2,7 @@
 
 主要备份了:
 
-- Install Packages
+- Installed Packages
 - Packages
 
 这两个文件夹。
